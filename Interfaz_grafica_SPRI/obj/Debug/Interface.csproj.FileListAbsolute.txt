@@ -1,0 +1,66 @@
+P:\OneDrive - Facultad de Ingeniería UNAM\TESIS\E_PROJECTS\GraphicInterface\Interface\bin\Debug\Interface.exe.config
+P:\OneDrive - Facultad de Ingeniería UNAM\TESIS\E_PROJECTS\GraphicInterface\Interface\bin\Debug\Interface.exe
+P:\OneDrive - Facultad de Ingeniería UNAM\TESIS\E_PROJECTS\GraphicInterface\Interface\bin\Debug\Interface.pdb
+P:\OneDrive - Facultad de Ingeniería UNAM\TESIS\E_PROJECTS\GraphicInterface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+P:\OneDrive - Facultad de Ingeniería UNAM\TESIS\E_PROJECTS\GraphicInterface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+P:\OneDrive - Facultad de Ingeniería UNAM\TESIS\E_PROJECTS\GraphicInterface\Interface\obj\Debug\Interface.Form1.resources
+P:\OneDrive - Facultad de Ingeniería UNAM\TESIS\E_PROJECTS\GraphicInterface\Interface\obj\Debug\Interface.Properties.Resources.resources
+P:\OneDrive - Facultad de Ingeniería UNAM\TESIS\E_PROJECTS\GraphicInterface\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+P:\OneDrive - Facultad de Ingeniería UNAM\TESIS\E_PROJECTS\GraphicInterface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+P:\OneDrive - Facultad de Ingeniería UNAM\TESIS\E_PROJECTS\GraphicInterface\Interface\obj\Debug\Interface.exe
+P:\OneDrive - Facultad de Ingeniería UNAM\TESIS\E_PROJECTS\GraphicInterface\Interface\obj\Debug\Interface.pdb
+P:\Projects\VisualStudio\GraphicInterface\Interface\bin\Debug\Interface.exe.config
+P:\Projects\VisualStudio\GraphicInterface\Interface\bin\Debug\Interface.exe
+P:\Projects\VisualStudio\GraphicInterface\Interface\bin\Debug\Interface.pdb
+P:\Projects\VisualStudio\GraphicInterface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface\obj\Debug\Interface.Form1.resources
+P:\Projects\VisualStudio\GraphicInterface\Interface\obj\Debug\Interface.Properties.Resources.resources
+P:\Projects\VisualStudio\GraphicInterface\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface\obj\Debug\Interface.exe
+P:\Projects\VisualStudio\GraphicInterface\Interface\obj\Debug\Interface.pdb
+P:\Projects\VisualStudio\GraphicInterface\Interface - copia\bin\Debug\Interface.exe.config
+P:\Projects\VisualStudio\GraphicInterface\Interface - copia\bin\Debug\Interface.exe
+P:\Projects\VisualStudio\GraphicInterface\Interface - copia\bin\Debug\Interface.pdb
+P:\Projects\VisualStudio\GraphicInterface\Interface - copia\obj\Debug\Interface.csproj.AssemblyReference.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface - copia\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface - copia\obj\Debug\Interface.Properties.Resources.resources
+P:\Projects\VisualStudio\GraphicInterface\Interface - copia\obj\Debug\Interface.csproj.GenerateResource.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface - copia\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface - copia\obj\Debug\Interface.exe
+P:\Projects\VisualStudio\GraphicInterface\Interface - copia\obj\Debug\Interface.pdb
+P:\Projects\VisualStudio\GraphicInterface\Interface - copia\obj\Debug\Interface.FormInterface.resources
+P:\Projects\VisualStudio\GraphicInterface\Interface_rgb\bin\Debug\Interface.exe.config
+P:\Projects\VisualStudio\GraphicInterface\Interface_rgb\bin\Debug\Interface.exe
+P:\Projects\VisualStudio\GraphicInterface\Interface_rgb\bin\Debug\Interface.pdb
+P:\Projects\VisualStudio\GraphicInterface\Interface_rgb\obj\Debug\Interface.csproj.AssemblyReference.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface_rgb\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface_rgb\obj\Debug\Interface.FormInterface.resources
+P:\Projects\VisualStudio\GraphicInterface\Interface_rgb\obj\Debug\Interface.Properties.Resources.resources
+P:\Projects\VisualStudio\GraphicInterface\Interface_rgb\obj\Debug\Interface.csproj.GenerateResource.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface_rgb\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface_rgb\obj\Debug\Interface.exe
+P:\Projects\VisualStudio\GraphicInterface\Interface_rgb\obj\Debug\Interface.pdb
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb\bin\Debug\Interface.exe.config
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb\bin\Debug\Interface.exe
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb\bin\Debug\Interface.pdb
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb\obj\Debug\Interface.csproj.AssemblyReference.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb\obj\Debug\Interface.FormInterface.resources
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb\obj\Debug\Interface.Properties.Resources.resources
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb\obj\Debug\Interface.csproj.GenerateResource.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb\obj\Debug\Interface.exe
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb\obj\Debug\Interface.pdb
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb_funcional\bin\Debug\Interface.exe.config
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb_funcional\bin\Debug\Interface.exe
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb_funcional\bin\Debug\Interface.pdb
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb_funcional\obj\Debug\Interface.csproj.AssemblyReference.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb_funcional\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb_funcional\obj\Debug\Interface.FormInterface.resources
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb_funcional\obj\Debug\Interface.Properties.Resources.resources
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb_funcional\obj\Debug\Interface.csproj.GenerateResource.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb_funcional\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb_funcional\obj\Debug\Interface.exe
+P:\Projects\VisualStudio\GraphicInterface\Interface_new_rgb_funcional\obj\Debug\Interface.pdb
